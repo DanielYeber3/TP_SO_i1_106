@@ -1,3 +1,1 @@
 # TP_SO_i1_106
-
-Beta: Karen Gimenez IP:  192.168.56.1 hora: 12:42
