@@ -8,7 +8,12 @@ Nombre Gamma: Felipe
 Apellido Gamma: Bustos Gil
 
 a- Si los veo correctamente. 
-b- Si, cree dos archivos y no tuvieron problema en visualizarlos.
-c-
-d-
+
+b- Si, cree dos archivos y no tuvieron problema en 
+visualizarlos.
+
+c- Si, los demas integrantes pueden ver los archivos.
+
+d-A traves de whatsapp pudimos verificar que cada uno haya hecho su trabajo correspondiente y buscar las soluciones en conjunto en caso de un error de malinterpetacion o de ejecucion.
+
 e- 
