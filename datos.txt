@@ -2,3 +2,5 @@
 
 Beta: Karen Gimenez IP:  192.168.56.1 hora: 12.48
 
+Gamma: Felipe Bustos Gil  IP: 192.168.56.1  hora: 12:39:45
+
