@@ -14,6 +14,6 @@ visualizarlos.
 
 c- Si, los demas integrantes pueden ver los archivos.
 
-d-A traves de whatsapp pudimos verificar que cada uno haya hecho su trabajo correspondiente y buscar las soluciones en conjunto en caso de un error de malinterpetacion o de ejecucion.
+d- A traves de whatsapp pudimos verificar que cada uno haya hecho su trabajo correspondiente y buscar las soluciones en conjunto en caso de un error de malinterpetacion o de ejecucion.
 
-e- 
+e- La mejor forma de comunicarnos dentro de github es a traves de los commits que van se van realizando en el repositorio. Si por algun motivo no pudieramos comunicarnos por otro método estos commits nos permitirían coordinarnos para poder realizar el trabajo. 
